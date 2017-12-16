@@ -1,4 +1,7 @@
 {
     "name": "root/antondiveev.com",
-    "require": {}
+    "require": {},
+    "require-dev": {
+        "heroku/heroku-buildpack-php": "^127.0"
+    }
 }
